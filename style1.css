@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+.link-nav {
+    text-align: center;
+    font-size: 30px;
+    background-color: #7608AA;
+
+}
+header {
+    text-align: center;
+    font-size: 60px;
+    background-color:#7608AA ;
+}
+main{
+    background-color: #62247F;
+}
+nav{
+background-color: #4C036E;
+}
+footer{
+    background-color: #A43DD4;
+}
+img:hover {
+    transform: scale(0.5);
+    transition: 5s  linear;
+}
