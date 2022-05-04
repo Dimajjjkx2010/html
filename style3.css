@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: #B165D4;
+}
+.link-nav {
+    text-align: center;
+    font-size: 30px;
+    background-color: #7608AA;
+
+}
+header {
+    font-size: 40px;
+    background-color:#7608AA ;
+}
+main{
+    background-color: #62247F;
+}
+nav{
+background-color: #4C036E;
+}
+footer{
+    background-color: #A43DD4;
+}
+title{
+    background-color: #7608AA;
+}
+b:hover{
+    color: black;
+   
+}
+b{
+    color: blueviolet;
+}
+.link-header:hover{
+    color: black;
+}
